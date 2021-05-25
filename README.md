@@ -8,6 +8,7 @@
 </h2> 
 <img align='right' src='./img/3179-code-icon.gif' width='200'>
 <img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200'>
+
 ```javascript
 const baosphoa0403 = {
     pronouns: "He" | "Him",
@@ -55,6 +56,7 @@ const baosphoa0403 = {
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
