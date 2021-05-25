@@ -4,10 +4,6 @@
   <!-- <br>Gia Bảo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> -->
 <h1 align="center">Hi 👋, I'm Gia Bảo</h1>
   <br> A passionate frontend developer from HCM city<br>
-  <br>
-    <div >
-     <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  </div>
  </abc>
 </h2> 
 <img align='right' src='./img/3179-code-icon.gif' width='200'>
@@ -50,7 +46,10 @@ const baosphoa0403 = {
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://nestjs.com/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
+</p>
+  <div>
+     <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  </div>
 
 
 
