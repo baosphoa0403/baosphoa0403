@@ -1,18 +1,37 @@
 # GiaBao0403
-![GitHub Logo](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
-
-
 <h2 align="left">
  <abc>
   <!-- <br>Gia Bảo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> -->
-  <br> I'm Gia Bảo<br>
-  <br> Front End Web Developer at HCM City<br>
+<h1 align="center">Hi 👋, I'm Gia Bảo</h1>
+  <br> A passionate frontend developer from HCM city<br>
   <br>
-    <div>
-     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <div >
+     <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
   </div>
  </abc>
 </h2> 
+<img align='right' src='./img/3179-code-icon.gif' width='200'>
+<img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200'>
+```javascript
+const baosphoa0403 = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript"],
+    askMeAbout: ["web dev", "app dev"],
+    technologies: {
+        frontEnd: {
+            js: ["ReactJS", "NextJS"],
+            css: ["Boostrap", "MaterialUI", "Antd", "Tailwind", "StyleComponent"]
+        },
+        backEnd: {
+            js: ["node", "Express", "NestJS"],
+            Java
+        },
+        databases: ["MongoDB", "sqlite"],
+    },
+    architecture: ["Serverless Architecture", "Single page applications"],
+};
+```
+
 <h2 align="left">Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -34,33 +53,18 @@
     </p>
 
 
-<img align='right' src='./img/3179-code-icon.gif' width='200'>
-<img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200'>
-```javascript
-const php1301 = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript"],
-    askMeAbout: ["web dev", "app dev"],
-    technologies: {
-        frontEnd: {
-            js: ["ReactJS", "NextJS"],
-            css: ["Boostrap", "MaterialUI", "Antd", "Tailwind", "StyleComponent"]
-        },
-        backEnd: {
-            js: ["node", "Express", "NestJS"],
-            Java
-        },
-        databases: ["MongoDB", "sqlite"],
-    },
-    architecture: ["Serverless Architecture", "Single page applications"],
-};
-```
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
+
+
+
+
+
