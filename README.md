@@ -2,7 +2,7 @@
 
 Gia Bảo Portfolio
 
-- <img align='top' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <h2 align="left">
  <abc>
@@ -12,7 +12,6 @@ Gia Bảo Portfolio
   <br>
     <div>
      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-     <img src="https://assets5.lottiefiles.com/packages/lf20_7OnDCE.json"  width="500">
   </div>
  </abc>
 </h2> 
