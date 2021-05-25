@@ -1,21 +1,19 @@
 # GiaBao0403
+![GitHub Logo](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 
-Gia Bảo Portfolio
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <h2 align="left">
  <abc>
-  <br>Gia Bảo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <!-- <br>Gia Bảo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> -->
   <br> I'm Gia Bảo<br>
-  <br> Front End Web Developer at HCM City :computer:<br>
+  <br> Front End Web Developer at HCM City<br>
   <br>
     <div>
      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
   </div>
  </abc>
 </h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -34,6 +32,29 @@ Gia Bảo Portfolio
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://nestjs.com/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
+
+
+<img align='right' src='./img/3179-code-icon.gif' width='200'>
+<img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200'>
+```javascript
+const php1301 = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript"],
+    askMeAbout: ["web dev", "app dev"],
+    technologies: {
+        frontEnd: {
+            js: ["ReactJS", "NextJS"],
+            css: ["Boostrap", "MaterialUI", "Antd", "Tailwind", "StyleComponent"]
+        },
+        backEnd: {
+            js: ["node", "Express", "NestJS"],
+            Java
+        },
+        databases: ["MongoDB", "sqlite"],
+    },
+    architecture: ["Serverless Architecture", "Single page applications"],
+};
+```
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
