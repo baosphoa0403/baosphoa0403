@@ -6,8 +6,7 @@
   <br> A passionate frontend developer from HCM city<br>
  </abc>
 </h2> 
-<img align='right' src='./img/3179-code-icon.gif' width='200'>
-<img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200'>
+<img align='right' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200'>
 
 ```javascript
 const baosphoa0403 = {
