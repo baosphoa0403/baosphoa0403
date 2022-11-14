@@ -15,6 +15,7 @@ const baosphoa0403 = {
     technologies: {
         frontEnd: {
             js: ["ReactJS", "NextJS"],
+            dart: ["Flutter"],
             css: ["Boostrap", "MaterialUI", "Antd", "Tailwind", "StyleComponent"]
         },
         backEnd: {
@@ -22,6 +23,7 @@ const baosphoa0403 = {
             Java
         },
         databases: ["MongoDB", "sqlite"],
+        cloud: ["FireBase"]
     },
     architecture: ["Serverless Architecture", "Single page applications"],
 };
