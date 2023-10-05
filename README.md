@@ -20,9 +20,10 @@ const baosphoa0403 = {
         },
         backEnd: {
             js: ["node", "Express", "NestJS"],
-            Java
+            Java,
+            Golang
         },
-        databases: ["MongoDB", "sqlite"],
+        databases: ["Mariadb", "Oracle", "MongoDB"],
         cloud: ["FireBase"]
     },
     architecture: ["Serverless Architecture", "Single page applications"],
